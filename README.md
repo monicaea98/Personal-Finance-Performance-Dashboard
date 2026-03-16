@@ -50,7 +50,7 @@ The **Main Dashboard** provides a high-level overview of financial performance.
 
 This page allows users to quickly evaluate whether their financial performance is **meeting expectations or falling behind targets**.
 
-![Main Dashboard](Imagenes/Main.png)
+![Main Dashboard](Images/Main.png)
 
 ---
 
@@ -73,9 +73,7 @@ Helps users identify:
 - Strongest income sources
 - Underperforming months
 
-## 📷 Dashboard Preview
-
-![Income Target](images/income_target.png)
+![Income Target](Images/Income_Target.png)
 
 ---
 
@@ -97,9 +95,7 @@ Helps detect:
 - Budget inefficiencies
 - Expense patterns
 
-## 📷 Dashboard Preview
-
-![Expenses Target](images/expenses_target.png)
+![Expenses Target](Images/Expenses_Target.png)
 
 ---
 
@@ -122,9 +118,7 @@ This page analyzes profitability against expected profit goals.
 
 Shows how effectively income converts into profit and highlights areas where financial performance can improve.
 
-## 📷 Dashboard Preview
-
-![Profit Target](images/profit_target.png)
+![Profit Target](Images/Profit_Target.png)
 
 ---
 
@@ -142,9 +136,7 @@ This page tracks the **cumulative financial balance** and compares it to expecte
 
 Helps evaluate financial stability and long-term financial progress.
 
-## 📷 Dashboard Preview
-
-![Balance Target](Imagenes/Balance Target.png)
+![Balance Target](Images/Balance_Target.png)
 
 ---
 
@@ -163,9 +155,7 @@ This page provides deeper analysis of profit performance.
 
 Supports deeper understanding of profit drivers and financial growth opportunities.
 
-## 📷 Dashboard Preview
-
-![More Profit Details](images/more_profit_details.png)
+![More Profit Details](Images/More_Profit_Details.png)
 
 ---
 
@@ -183,9 +173,7 @@ This page provides detailed analysis of revenue performance.
 
 Helps understand income stability and identify revenue growth opportunities.
 
-## 📷 Dashboard Preview
-
-![More Income Details](images/more_income_details.png)
+![More Income Details](Images/More_Income_Details.png)
 
 ---
 
@@ -203,9 +191,7 @@ This page offers a granular analysis of expenses.
 
 Helps optimize expenses and improve financial planning.
 
-## 📷 Dashboard Preview
-
-![More Expenses Details](images/more_expenses_details.png)
+![More Expenses Details](Images/More_Expenses_Details.png)
 
 ---
 
