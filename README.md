@@ -50,7 +50,7 @@ The **Main Dashboard** provides a high-level overview of financial performance.
 
 This page allows users to quickly evaluate whether their financial performance is **meeting expectations or falling behind targets**.
 
-![Main Dashboard](Imagenes/Balance Target.png)
+![Main Dashboard](Imagenes/Main.png)
 
 ---
 
